@@ -26,9 +26,7 @@ This project analyzes customer shopping data to understand:
 
 ## 📊 Dashboard Preview
 
-![Customer Dashboard](images/customer_dashboard.png)
-
-> *Add your dashboard screenshot inside the `images/` folder and update the file name if needed.*
+![Customer Dashboard](https://github.com/Himanshu6203/customer_behavior_dashboard/blob/main/Customer%20Behavior%20Dashboard.png)
 
 ---
 
